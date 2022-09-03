@@ -1,0 +1,1 @@
+Trabalho Final da disciplina de Inteligencia Artificial. O objetivo do trabalho era, a partir de um dataset, implementar algoritmos vistos durante a disciplina e fazer um relatorio dos resultados obtidos.
